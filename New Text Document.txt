@@ -7,3 +7,6 @@ hello first code exit
 
 
 ###### Release br is ready to deploy... do it .
+
+
+###Release successful, testing is OK. Push the code to master/main.  GOOOOOO|GO GO
