@@ -1,0 +1,12 @@
+hello first code exit
+
+// OK fine
+
+
+\\ I tested the change , it is working, merge to release branch.\\\
+
+
+###### Release br is ready to deploy... do it .
+
+
+###Release successful, testing is OK. Push the code to master/main.  GOOOOOO|GO GO
